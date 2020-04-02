@@ -21,8 +21,8 @@ Das Repository basiert grundlegend auf den veröffentlichten Informationen und C
 
 **Weitere Informationen:**
 
-[Repository von Seed Studio](https://github.com/Seeed-Studio/)
+[Repository von Seeed Studio](https://github.com/Seeed-Studio/)
 
-[Offizielles Wiki von Seed Studio](http://wiki.seeedstudio.com/Grove-Electricity_Sensor/)
+[Offizielles Wiki von Seeed Studio](http://wiki.seeedstudio.com/Grove-Electricity_Sensor/)
 
 [Materialkoffer von *Make Your School*](makeyourschool.de/material/stromsensor/)
